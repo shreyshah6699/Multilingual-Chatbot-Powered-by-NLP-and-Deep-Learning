@@ -1,0 +1,82 @@
+{
+  "intents": [
+    {
+      "tag": "welcoming",
+      "responses": [
+        "Hey :-)",
+        "Hello!",
+        "Hi, what can I do for you?",
+        "Hi, how can I help you?",
+        "Hi, what do you need?"
+      ]
+    },
+    {
+      "tag": "state",
+      "responses": [
+        "I'm in top shape!",
+        "Couldn't be in better shape! ",
+        "It's rockin' :P",
+        "Everything is going great for me, and I hope for you too.",
+        "Yes great!"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "responses": [
+        "See you soon! Thanks for visiting.",
+        "Have a nice day!",
+        "Goodbye! Come back soon.",
+        "Goodbye, I hope I've been helpful.",
+        "See you next time!",
+        "Glad I could help!"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "responses": [
+        "I'm glad to have helped you!",
+        "Anytime!",
+        "It's my pleasure!",
+        "You're welcome ;-)",
+        "Glad I could help you",
+        "You're welcome",
+        "You're welcome",
+        "My pleasure"
+      ]
+    },
+    {
+      "tag": "features",
+      "responses": [
+        "I offer lots of things! You can ask me the weather, your horoscope of the day, jokes, definitions, play sudoku or just chat with me :-)",
+        "I can give you the weather, your horoscope, jokes, definitions, play sudoku or just chat",
+        "I can give you the weather, your horoscope, jokes, definitions, play sudoku or we can just chat."
+      ]
+    },
+    {
+      "tag": "operation",
+      "responses": [
+        "I am a humble chabot at your service, based on internet queries and deep learning",
+        "I work on the analysis of your request, to choose the right answer",
+        "I am the coolest chatbot ever! I will try my best to answer your questions through web queries and deep learning."
+      ]
+    },
+    {
+      "tag": "pass",
+      "responses": [
+        "How else may I help you?",
+        "Hope you are satisfied with the result, what else can I do for you?",
+        "Is there anything else that I can do you you?",
+        "Do you have any other questions or needs I can assist with?",
+        "I'm here to help. What else can I do for you today?",
+        "If there's anything more you need, feel free to ask.",
+        "Let me know if there's anything else I can do for you.",
+        "Would you like assistance with anything else?",
+        "I'm happy to help with any other inquiries or issues you might have.",
+        "Is there any other information or help you require?",
+        "What else can I assist you with today?",
+        "If you have any more questions or need further help, just say the word.",
+        "I'm here for any other support or questions you might have. Just let me know!"
+      ]
+    }
+  ]
+}

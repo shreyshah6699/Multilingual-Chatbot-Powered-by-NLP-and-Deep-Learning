@@ -1,0 +1,13 @@
+User Input,Intent
+What's the weather like today?,get_weather
+Is it going to rain tomorrow in New York?,get_weather
+Show me the weather forecast for Los Angeles,get_weather
+Tell me my horoscope for today,get_horoscope
+What does my star sign say about tomorrow?,get_horoscope
+Can you give me the horoscope for Pisces?,get_horoscope
+I want to play Sudoku,play_sudoku
+Please generate a Sudoku puzzle,play_sudoku
+Give me a hard Sudoku board,play_sudoku
+"Hello, how are you?",greeting
+Hi there!,greeting
+"Good morning, chatbot!",greeting

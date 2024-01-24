@@ -1,0 +1,124 @@
+Pattern,Tag
+hello,welcoming
+Hello,welcoming
+Anybody there?,welcoming
+Hello,welcoming
+Good evening,welcoming
+Hi,welcoming
+Yo,welcoming
+Hola,welcoming
+Ciao,welcoming
+Hey,welcoming
+How are you? ,state
+How are you?,state
+Are you okay?,state
+Is everything okay? ,state
+Are you happy?  ,state
+Are you happy?,state
+How are you?,state
+Fit? ,state
+Bye,goodbye
+Goodbye,goodbye
+Good Bye,goodbye
+See you later,goodbye
+Ciao,goodbye
+kiss,goodbye
+See you next time,goodbye
+Another time,goodbye
+exit,goodbye
+quit,goodbye
+Thank you,thanks
+I thank you,thanks
+This helps me a lot,thanks
+Thank you so much!,thanks
+This helps me a lot,thanks
+Top,thanks
+Thanks,thanks
+Super thanks,thanks
+features,features
+What can you do?,features
+What are your features?,features
+What are your features,features
+What services do you offer?,features
+What services do you offer,features
+What do you do?,features
+What do you do,features
+What are you good for?,features
+What are you good for,features
+What do you offer?,features
+What do you offer,features
+operation,operation
+how do you function?,operation
+How do you function,operation
+Who are you?,operation
+Who are you,operation
+What is your role?,operation
+What is your role,operation
+How do you walk?,operation
+How do you walk,operation
+joke,joke
+Tell me a joke,joke
+Tell me a joke,joke
+Do you know a joke?,joke
+Do you know a joke,joke
+Can you tell me a joke?,joke
+Can you tell me a joke,joke
+Are you funny? ,joke
+Are you funny,joke
+Make me laugh.,joke
+Make me laugh,joke
+I want to laugh,joke
+I want to laugh,joke
+Are you funny?,joke
+Are you funny,joke
+Do you have a sense of humor?,joke
+Do you have a sense of humor,joke
+Joke.,joke
+Joke,joke
+Make a joke,joke
+Make a joke,joke
+weather,weather
+What's the weather like?,weather
+What's the weather like in ,weather
+Is it raining in ,weather
+Is it sunny in ,weather
+What is the temperature in ,weather
+Is it cloudy in ,weather
+Should I take out my umbrella?,weather
+Can you give me the time to ,weather
+Can you give me the time to,weather
+Is it hot in ,weather
+Is it cold in ,weather
+Do I need to cover up?,weather
+Should I wear sunglasses?,weather
+Should I wear a coat?,weather
+horoscope,horoscope
+What is my horoscope,horoscope
+What's going on with my star sign,horoscope
+Are the stars aligned for me?,horoscope
+How is my day going?  ,horoscope
+Do I have a good future?  ,horoscope
+Give me my horoscope for the day,horoscope
+Give me my horoscope for the day,horoscope
+Are the stars aligned?,horoscope
+Am I going to have a good day?,horoscope
+horoscope,horoscope
+Do I have a good horoscope?,horoscope
+dictionary,dictionary
+Meaning,dictionary
+What is the definition of ,dictionary
+Can you define ,dictionary
+Can you define ,dictionary
+What is the definition of ,dictionary
+Give me the definition of ,dictionary
+sudoku,sudoku
+Play a game,sudoku
+I want to play sudoku,sudoku
+I want to do a sudoku,sudoku
+May I play sudoku ?,sudoku
+May I do a sudoku ?,sudoku
+Can I do a sudoku ?,sudoku
+Can I play sudoku ?,sudoku
+Can I play the game sudoku ?,sudoku
+Show me the sudoku game,sudoku
+Start the game sudoku,sudoku
