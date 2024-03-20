@@ -1,0 +1,8 @@
+torch 
+transformers
+requests
+beautifulsoup4
+selenium
+tkinter
+pandas
+m2m100 @ git+https://github.com/facebookresearch/m2m100.git 
